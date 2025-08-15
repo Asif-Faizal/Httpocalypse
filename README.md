@@ -1,0 +1,1 @@
+# An educational HTTP/1.1 parser and server built from scratch in Go, focusing on core protocol mechanics by handling TCP connections, parsing requests, and crafting responses without high-level libraries. A hands-on way to learn web transport fundamentals while creating a functional server.
